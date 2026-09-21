@@ -1,0 +1,8 @@
+.env
+egos.db
+egos.db-shm
+egos.db-wal
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
